@@ -4,7 +4,7 @@ import { css } from "emotion";
 import ThemeContext from "@hig/theme-context";
 
 import stylesheet from "./stylesheet";
-
+const a = 1;
 export default function TableHeaderCellPresenter(props) {
   const {
     children,
